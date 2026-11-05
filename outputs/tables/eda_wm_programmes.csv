@@ -1,0 +1,5 @@
+programme,washes,share_pct,median_duration_min,median_heater_min,median_energy_Wh,share_starting_weekday_peak_pct
+P1,455,16.8,33.0,6.0,272.0,4.4
+P2,954,35.3,60.0,12.0,493.0,15.0
+P3,1112,41.1,116.0,16.0,705.0,22.2
+P4,183,6.8,128.0,31.0,1283.0,15.3

@@ -1,0 +1,4 @@
+feature_set,n_features,val_RMSE_W_iter15,val_RMSE_W_final,val_RMSE_W_always_off,val_MAE_W,val_onoff_F1_at_30W,chosen
+all,63,149.5,151.2,166.7,28.43,0.373,False
+no_time,59,150.2,150.6,166.7,27.52,0.384,False
+relative,43,149.3,149.8,166.7,26.97,0.388,True

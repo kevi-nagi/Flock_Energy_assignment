@@ -1,0 +1,3 @@
+model,onoff_F1,cycle_F1,energy_err_pct,final
+lgbm,0.399,0.408,46.2,False
+lgbm_cycles,0.468,0.408,32.4,True

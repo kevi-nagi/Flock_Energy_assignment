@@ -1,0 +1,17 @@
+model,threshold_W,precision,recall,F1
+hour_profile,10,0.04,0.884,0.077
+hour_profile,20,0.04,0.861,0.076
+hour_profile,30,0.044,0.66,0.082
+hour_profile,50,0.04,0.217,0.067
+hour_profile,75,0.019,0.02,0.02
+hour_profile,100,0.0,0.0,0.0
+hour_profile,150,0.0,0.0,0.0
+hour_profile,200,0.0,0.0,0.0
+lgbm_raw,10,0.179,0.939,0.301
+lgbm_raw,20,0.225,0.891,0.359
+lgbm_raw,30,0.254,0.82,0.388
+lgbm_raw,50,0.285,0.666,0.399
+lgbm_raw,75,0.284,0.493,0.361
+lgbm_raw,100,0.273,0.389,0.32
+lgbm_raw,150,0.264,0.298,0.28
+lgbm_raw,200,0.276,0.266,0.271

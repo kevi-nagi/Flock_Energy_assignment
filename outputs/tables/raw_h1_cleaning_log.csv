@@ -1,0 +1,12 @@
+step,rows_or_count
+loaded (Part1 + Part2),8518763
+Part1 rows inside Part2 window set aside,7260898
+ambiguous autumn-DST hour removed,7258713
+duplicate timestamps merged (keep first),6662139
+impossible values set to NaN (cells),4792
+"  of which caught by the general limits (aggregate, appliance > 4 kW)",2657
+  of which caught only by a per-appliance limit,2135
+1-min grid rows,920031
+aggregate minutes filled from Part1 (overlap window),4549
+aggregate minutes interpolated,854
+aggregate minutes flagged outage,114398
